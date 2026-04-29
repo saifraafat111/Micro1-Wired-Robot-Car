@@ -9,9 +9,9 @@ This project is a part of "Principles of Microprocessors" course in the study pl
 This project is about making a functional car with a joystick wired controller using ATmega328P and applying our own drivers.
 
 # Teammates
-1. Amaar Ayman
+1. Saif Raafat
 2. Ahmed Nagy
 3. Omar Wael
-4. Seif Raafat
+4. Amaar Ayman
 5. Morsy Ahmed
 6. Youssef Moussa
