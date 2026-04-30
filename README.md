@@ -14,8 +14,8 @@ Our objective was to build a functional car that can be controlled using wired j
 
 ## Overview
 
-<img src="Car%20without%20cover.png" width="500" alt="Car without cover">
-<img src="Car%20with%20cover.png" width="400" alt="Car with cover">
+![Car Prototype](attachments/sMVqf6tfx4ie3ZmQjZJoi.jpeg)
+![Joystick Controlled Car](attachments/g3aE5JjirMiR9daU2gQJQ.png)
 
 ## Drivers Software
 
