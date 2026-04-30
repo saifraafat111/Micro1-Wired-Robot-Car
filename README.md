@@ -14,7 +14,7 @@ Our objective was to build a functional car that can be controlled using wired j
 
 ## Overview
 
-<img src="Car%20without%20cover.png" width="400" alt="Car without cover">
+<img src="Car%20without%20cover.jpeg" width="400" alt="Car without cover">
 <img src="Car%20with%20cover.png" width="400" alt="Car with cover">
 
 ## Drivers Software
